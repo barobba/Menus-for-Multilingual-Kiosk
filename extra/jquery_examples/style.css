@@ -1,0 +1,29 @@
+
+
+div#unique-id {  
+}
+
+div.box {
+  border: 4px outset gray;
+  border-radius: 1em;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  text-align: center;
+}
+
+.reference-links {
+  margin: 1em 0em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid gray;
+}
+
+.type1 {
+  background-color: red;
+}
+
+.type2 {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
