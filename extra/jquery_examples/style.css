@@ -6,6 +6,7 @@ div#unique-id {
 div.box {
   border: 4px outset gray;
   border-radius: 1em;
+  -moz-border-radius: 1em;
   width: 100px;
   height: 100px;
   line-height: 100px;
